@@ -1,0 +1,10 @@
+@media screen and (min-width: 300px) {
+    .projetos img{
+        width: 100%;
+    }
+    .botoes2{
+        padding: 3px 10px;
+        margin: 25% 0 0 -30%;
+    }
+
+}

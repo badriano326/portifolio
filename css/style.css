@@ -76,7 +76,7 @@ body{
     cursor: pointer;
     align-items: center;
     justify-content: center;
-    margin: 14rem 0 0 -14rem;
+    margin: 13rem 0 0 -13rem;
 }
 .projetos{
     position:relative;
@@ -89,6 +89,8 @@ body{
     justify-content: center;
 }
 .projetos img{
-    width: 350px;
+   width: 350px;
+    align-items: center;
+    justify-content: center;
 
 }
