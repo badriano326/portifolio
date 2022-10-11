@@ -57,7 +57,7 @@ body{
     font-size: 12px;
     cursor: pointer;
     transition: 0.5s;
-    overflow: hidden;
+    
 }
     
 .botoes:hover{
@@ -76,7 +76,7 @@ body{
     cursor: pointer;
     align-items: center;
     justify-content: center;
-    margin: -5% 0 0 20%;
+    margin: 14rem 0 0 -14rem;
 }
 .projetos{
     position:relative;
